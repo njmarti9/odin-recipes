@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+}
+
+li {
+    background-color: aqua;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.uolist{
+    background-color: aquamarine;
+}
+
+.olist {
+    background-color: blue;
+}
